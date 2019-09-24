@@ -10,5 +10,5 @@ require 'pry'
 
 def get_the_values(groceries)
   groceries.each do |item, data|
-    
+    data.each do |
 end
